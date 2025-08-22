@@ -44,4 +44,4 @@ Management can quickly see what drives revenue, which areas need attention, and 
 
 
 ## Dashboard :
-<img src="./Screenshot (172).png" width="3000" height="600"/>&nbsp;
+<img src="./Hotel-Dashboard.png" width="3000" height="600"/>&nbsp;
